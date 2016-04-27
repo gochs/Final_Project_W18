@@ -7,5 +7,6 @@ https://github.com/cheapcontact/w18finalproject
 
 Important docs: 
 
-W18FinalProject.pdf is our official writeup. 
+W18FinalProject.pdf is our official writeup.
+
 Lab Notebook.ipynb tells the story of our learnings and mishaps along the way.
