@@ -1,7 +1,10 @@
-Items left to do --
+Final_Project_W18
+San Francisco Bike Share Analysis By: Shawn Kessler, Giles Ochs and Brian Schneider
 
-Giles to add legends to graphs </br>
-Giles to finish Lab Notebook (in progress) </br>
-Need all of us to put this stuff in our own repos </br>
-Need Giles or Shawn to turn in tomorrow </br>
-My repo link (if we put it in a readme.md): https://github.com/brianhschneider/Final_Project_W18 </br>
+Public Repo with Notebooks and other sources: 
+https://github.com/cheapcontact/w18finalproject 
+
+Important docs: 
+
+W18FinalProject.pdf is our official writeup. 
+Lab Notebook.ipynb tells the story of our learnings and mishaps along the way.
