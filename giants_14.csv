@@ -1,0 +1,168 @@
+
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+1,1,Monday Mar 31,boxscore,SFG,@,ARI,W,9,8,,1-0,1,Tied,Machi,Reed,Romo,3:25,N,48541,+
+2,2,Tuesday Apr 1,boxscore,SFG,@,ARI,L,4,5,,1-1,2,1.0,Miley,Gutierrez,Reed,2:46,N,18974,-
+3,3,Wednesday Apr 2,boxscore,SFG,@,ARI,W,2,0,,2-1,2,1.0,Hudson,Cahill,Romo,2:49,N,19357,+
+4,4,Thursday Apr 3,boxscore,SFG,@,ARI,W,8,5,,3-1,2,0.5,Machi,Harris,,3:11,D,19131,++
+5,5,Friday Apr 4,boxscore,SFG,@,LAD,W,8,4,,4-1,1,up 0.5,Huff,Ryu,,3:25,D,53493,+++
+6,6,Saturday Apr 5,boxscore,SFG,@,LAD,W,7,2,,5-1,1,up 1.5,Bumgarner,Maholm,,3:42,D,49520,++++
+7,7,Sunday Apr 6,boxscore,SFG,@,LAD,L,2,6,,5-2,1,up 0.5,Greinke,Cain,,2:51,N,48367,-
+8,8,Tuesday Apr 8,boxscore,SFG,,ARI,W,7,3,,6-2,1,up 0.5,Hudson,Cahill,,2:39,D,42166,+
+9,9,Wednesday Apr 9,boxscore,SFG,,ARI,L,3,7,,6-3,1,up 0.5,Arroyo,Lincecum,Collmenter,2:52,N,41157,-
+10,10,Thursday Apr 10,boxscore,SFG,,ARI,L,5,6,10,6-4,1,Tied,Putz,Petit,Reed,4:10,N,41577,--
+11,11,Friday Apr 11,boxscore,SFG,,COL,W,6,5,,7-4,1,Tied,Bumgarner,De La Rosa,Romo,3:16,N,41707,+
+12,12,Saturday Apr 12,boxscore,SFG,,COL,L,0,1,,7-5,2,1.0,Kahnle,Cain,Hawkins,2:48,D,41917,-
+13,13,Sunday Apr 13,boxscore,SFG,,COL,W-wo,5,4,10,8-5,2,1.0,Romo,Brothers,,2:41,D,41490,+
+14,14,Tuesday Apr 15,boxscore,SFG,,LAD,W-wo,3,2,12,9-5,1,Tied,Petit,League,,4:54,N,42469,++
+15,15,Wednesday Apr 16,boxscore,SFG,,LAD,W,2,1,,10-5,1,up 1.0,Machi,Howell,Romo,2:53,N,42773,+++
+16,16,Thursday Apr 17,boxscore,SFG,,LAD,L,1,2,,10-6,1,Tied,Ryu,Bumgarner,Jansen,3:08,D,42890,-
+17,17,Friday Apr 18,boxscore,SFG,@,SDP,L,1,2,,10-7,1,Tied,Ross,Cain,Street,2:35,N,34839,--
+18,18,Saturday Apr 19,boxscore,SFG,@,SDP,L,1,3,,10-8,2,1.0,Stults,Hudson,Benoit,2:36,N,43405,---
+19,19,Sunday Apr 20,boxscore,SFG,@,SDP,W,4,3,,11-8,2,1.0,Lincecum,Erlin,Romo,2:59,D,25035,+
+20,20,Monday Apr 21,boxscore,SFG,@,COL,L,2,8,,11-9,2,1.0,De La Rosa,Vogelsong,,3:13,N,25434,-
+21,21,Tuesday Apr 22,boxscore,SFG,@,COL,L,1,2,,11-10,3,1.0,Morales,Bumgarner,Hawkins,2:41,N,27165,--
+22,22,Wednesday Apr 23,boxscore,SFG,@,COL,W,12,10,11,12-10,2,1.0,Machi,Bettis,,4:26,D,35191,+
+23,23,Friday Apr 25,boxscore,SFG,,CLE,W,5,1,,13-10,1,up 0.5,Hudson,Carrasco,,2:42,N,41296,++
+24,24,Saturday Apr 26,boxscore,SFG,,CLE,W,5,3,,14-10,1,up 0.5,Gutierrez,McAllister,Romo,2:47,D,42088,+++
+25,25,Sunday Apr 27,boxscore,SFG,,CLE,W-wo,4,1,,15-10,1,up 1.5,Romo,Allen,,2:43,D,41530,++++
+26,26,Monday Apr 28,boxscore,SFG,,SDP,L,4,6,,15-11,1,up 0.5,Ross,Bumgarner,Street,3:29,N,41533,-
+27,27,Tuesday Apr 29,boxscore,SFG,,SDP,W,6,0,,16-11,1,up 0.5,Petit,Stults,,2:28,N,41952,+
+28,28,Wednesday Apr 30,boxscore,SFG,,SDP,W,3,2,,17-11,1,up 1.5,Hudson,Erlin,Romo,2:17,N,42164,++
+29,29,Friday May 2,boxscore,SFG,@,ATL,W,2,1,,18-11,1,up 1.0,Lincecum,Minor,Romo,3:08,N,29469,+++
+30,30,Saturday May 3,boxscore,SFG,@,ATL,W,3,1,,19-11,1,up 1.0,Vogelsong,Teheran,Romo,2:51,N,34648,++++
+31,31,Sunday May 4,boxscore,SFG,@,ATL,W,4,1,,20-11,1,up 2.0,Bumgarner,Wood,Casilla,3:15,D,30067,+++++
+32,32,Monday May 5,boxscore,SFG,@,PIT,W,11,10,13,21-11,1,up 2.0,Machi,Hughes,Romo,5:29,N,13675,++++++
+33,33,Tuesday May 6,boxscore,SFG,@,PIT,L-wo,1,2,,21-12,1,up 1.0,Watson,Hudson,,2:41,N,18881,-
+34,34,Wednesday May 7,boxscore,SFG,@,PIT,L,3,4,,21-13,1,Tied,Cole,Lincecum,Melancon,2:47,D,23975,--
+35,35,Thursday May 8,boxscore,SFG,@,LAD,W,3,1,10,22-13,1,up 1.0,Casilla,Howell,Romo,3:47,N,43068,+
+36,36,Friday May 9,boxscore,SFG,@,LAD,W,3,1,,23-13,1,up 2.0,Bumgarner,Maholm,Romo,2:57,N,49171,++
+37,37,Saturday May 10,boxscore,SFG,@,LAD,L,2,6,,23-14,1,up 1.0,Greinke,Affeldt,,3:22,D,47199,-
+38,38,Sunday May 11,boxscore,SFG,@,LAD,W,7,4,10,24-14,1,up 2.0,Romo,Jansen,Machi,3:54,D,51369,+
+39,39,Monday May 12,boxscore,SFG,,ATL,W,4,2,,25-14,1,up 2.5,Lincecum,Floyd,Romo,2:43,N,41438,++
+40,40,Tuesday May 13,boxscore,SFG,,ATL,L,0,5,,25-15,1,up 2.5,Minor,Vogelsong,,2:51,N,41506,-
+41,41,Wednesday May 14,boxscore,SFG,,ATL,W,10,4,,26-15,1,up 3.5,Bumgarner,Teheran,,3:18,D,41253,+
+42,42,Thursday May 15,boxscore,SFG,,MIA,W,6,4,,27-15,1,up 4.0,Cain,Eovaldi,Romo,2:53,N,41597,++
+43,43,Friday May 16,boxscore,SFG,,MIA,L,5,7,,27-16,1,up 3.0,Dunn,Casilla,Cishek,3:17,N,41819,-
+44,44,Saturday May 17,boxscore,SFG,,MIA,L,0,5,,27-17,1,up 3.0,Koehler,Lincecum,Cishek,2:57,N,41619,--
+45,45,Sunday May 18,boxscore,SFG,,MIA,W,4,1,,28-17,1,up 3.0,Vogelsong,Turner,Romo,3:04,D,41551,+
+46,46,Tuesday May 20,boxscore,SFG,@,COL,L-wo,4,5,,28-18,1,up 2.0,Hawkins,Romo,,3:33,N,31046,-
+47,47,Wednesday May 21,boxscore,SFG,@,COL,W,5,1,,29-18,1,up 3.0,Petit,Chacin,,3:00,N,30411,+
+48,48,Thursday May 22,boxscore,SFG,@,COL,W,4,2,,30-18,1,up 4.0,Affeldt,Friedrich,Casilla,3:13,D,36468,++
+49,49,Friday May 23,boxscore,SFG,,MIN,W,6,2,,31-18,1,up 5.0,Lincecum,Gibson,Machi,2:43,N,41514,+++
+50,50,Saturday May 24,boxscore,SFG,,MIN,W,2,1,,32-18,1,up 5.0,Vogelsong,Deduno,Romo,2:51,N,41724,++++
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+51,51,Sunday May 25,boxscore,SFG,,MIN,W,8,1,,33-18,1,up 6.0,Bumgarner,Nolasco,,2:40,D,42590,+++++
+52,52,Monday May 26,boxscore,SFG,,CHC,L,4,8,,33-19,1,up 5.0,Samardzija,Petit,,3:11,D,42257,-
+53,53,Tuesday May 27,boxscore,SFG,,CHC,W,4,0,,34-19,1,up 5.0,Hudson,Arrieta,,2:39,N,41060,+
+54,54,Wednesday May 28,boxscore,SFG,,CHC,W,5,0,,35-19,1,up 6.0,Kontos,Jackson,,3:18,D,41186,++
+55,55,Thursday May 29,boxscore,SFG,@,STL,W,6,5,,36-19,1,up 7.0,Lopez,Martinez,Romo,3:08,N,41337,+++
+56,56,Friday May 30,boxscore,SFG,@,STL,W,9,4,,37-19,1,up 8.0,Bumgarner,Wainwright,,3:14,N,43107,++++
+57,57,Saturday May 31,boxscore,SFG,@,STL,L,0,2,,37-20,1,up 7.0,Wacha,Petit,Rosenthal,2:29,D,44426,-
+58,58,Sunday Jun 1,boxscore,SFG,@,STL,W,8,0,,38-20,1,up 8.0,Hudson,Lynn,,3:04,D,42734,+
+59,59,Tuesday Jun 3,boxscore,SFG,@,CIN,L,3,8,,38-21,1,up 7.5,Bailey,Lincecum,,2:57,N,27152,-
+60,60,Wednesday Jun 4,boxscore,SFG,@,CIN,W,3,2,,39-21,1,up 8.5,Vogelsong,Cingrani,Romo,3:12,N,26333,+
+61,61,Thursday Jun 5,boxscore,SFG,@,CIN,W,6,1,,40-21,1,up 9.0,Bumgarner,Leake,,2:49,D,25532,++
+62,62,Friday Jun 6,boxscore,SFG,,NYM,W,4,2,,41-21,1,up 9.0,Affeldt,Torres,Romo,2:17,N,41437,+++
+63,63,Saturday Jun 7,boxscore,SFG,,NYM,W-wo,5,4,,42-21,1,up10.0,Affeldt,Mejia,,3:33,N,41296,++++
+64,64,Sunday Jun 8,boxscore,SFG,,NYM,W,6,4,,43-21,1,up10.0,Lincecum,Wheeler,Romo,3:24,D,41911,+++++
+65,65,Monday Jun 9,boxscore,SFG,,WSN,L,2,9,,43-22,1,up 9.0,Strasburg,Vogelsong,,3:01,N,41597,-
+66,66,Tuesday Jun 10,boxscore,SFG,,WSN,L,1,2,,43-23,1,up 8.0,Fister,Bumgarner,Soriano,2:55,N,41545,--
+67,67,Wednesday Jun 11,boxscore,SFG,,WSN,L,2,6,,43-24,1,up 8.0,Roark,Cain,,3:19,N,41404,---
+68,68,Thursday Jun 12,boxscore,SFG,,WSN,W,7,1,,44-24,1,up 9.0,Hudson,Treinen,,2:59,D,41067,+
+69,69,Friday Jun 13,boxscore,SFG,,COL,L,4,7,,44-25,1,up 8.0,Belisle,Romo,Hawkins,3:36,N,41258,-
+70,70,Saturday Jun 14,boxscore,SFG,,COL,L,4,5,,44-26,1,up 7.0,Brothers,Romo,Hawkins,3:23,D,41704,--
+71,71,Sunday Jun 15,boxscore,SFG,,COL,L,7,8,,44-27,1,up 7.0,Belisle,Gutierrez,Hawkins,3:43,D,41824,---
+72,72,Tuesday Jun 17,boxscore,SFG,@,CHW,L,2,8,,44-28,1,up 5.5,Danks,Cain,,2:42,N,25278,----
+73,73,Wednesday Jun 18,boxscore,SFG,@,CHW,L,6,7,,44-29,1,up 4.5,Sale,Hudson,Belisario,3:12,D,20059,-----
+74,74,Friday Jun 20,boxscore,SFG,@,ARI,L,1,4,,44-30,1,up 4.5,Collmenter,Lincecum,Reed,2:52,N,29295,------
+75,75,Saturday Jun 21,boxscore,SFG,@,ARI,W,6,4,,45-30,1,up 4.5,Vogelsong,McCarthy,Romo,3:15,N,37916,+
+76,76,Sunday Jun 22,boxscore,SFG,@,ARI,W,4,1,,46-30,1,up 4.5,Bumgarner,Bolsinger,Romo,2:39,D,27862,++
+77,77,Monday Jun 23,boxscore,SFG,,SDP,L,0,6,,46-31,1,up 4.5,Despaigne,Cain,,2:34,N,41360,-
+78,78,Tuesday Jun 24,boxscore,SFG,,SDP,L,2,7,,46-32,1,up 3.5,Hahn,Hudson,,2:56,N,41546,--
+79,79,Wednesday Jun 25,boxscore,SFG,,SDP,W,4,0,,47-32,1,up 3.5,Lincecum,Kennedy,,2:37,D,41500,+
+80,80,Thursday Jun 26,boxscore,SFG,,CIN,L,1,3,,47-33,1,up 2.5,Leake,Vogelsong,Chapman,2:46,N,41156,-
+81,81,Friday Jun 27,boxscore,SFG,,CIN,L,2,6,,47-34,1,up 2.5,Cueto,Bumgarner,Chapman,2:44,N,41046,--
+82,82,Saturday Jun 28,boxscore,SFG,,CIN,L,3,7,11,47-35,1,up 1.5,Broxton,Lopez,,3:59,N,41024,---
+83,83,Sunday Jun 29,boxscore,SFG,,CIN,L,0,4,,47-36,1,up 0.5,Bailey,Hudson,,2:38,D,41541,----
+84,84,Tuesday Jul 1,boxscore,SFG,,STL,W,5,0,,48-36,1,up 1.0,Lincecum,Gonzales,,2:28,N,41152,+
+85,85,Wednesday Jul 2,boxscore,SFG,,STL,L,0,2,,48-37,1,up 1.0,Wainwright,Vogelsong,Rosenthal,2:51,N,41321,-
+86,86,Thursday Jul 3,boxscore,SFG,,STL,L,2,7,,48-38,1,Tied,Martinez,Bumgarner,,3:12,D,41181,--
+87,87,Friday Jul 4,boxscore,SFG,@,SDP,L,0,2,,48-39,2,1.0,Stults,Cain,Street,2:31,D,31126,---
+88,88,Saturday Jul 5,boxscore,SFG,@,SDP,W,5,3,10,49-39,1,Tied,Romo,Thayer,Casilla,3:44,D,36127,+
+89,89,Sunday Jul 6,boxscore,SFG,@,SDP,W,5,3,,50-39,1,Tied,Lincecum,Hahn,Casilla,2:58,D,28065,++
+90,90,Monday Jul 7,boxscore,SFG,@,OAK,L,0,5,,50-40,2,0.5,Chavez,Vogelsong,,3:10,N,36067,-
+91,91,Tuesday Jul 8,boxscore,SFG,@,OAK,L,1,6,,50-41,2,0.5,Gray,Bumgarner,,2:47,N,36067,--
+92,92,Wednesday Jul 9,boxscore,SFG,,OAK,W,5,2,,51-41,1,up 0.5,Cain,Hammel,Casilla,3:02,N,41427,+
+93,93,Thursday Jul 10,boxscore,SFG,,OAK,L,1,6,,51-42,2,0.5,Kazmir,Hudson,,3:01,D,41069,-
+94,94,Friday Jul 11,boxscore,SFG,,ARI,W,5,0,,52-42,1,up 0.5,Lincecum,Bolsinger,,2:35,N,41647,+
+95,95,Saturday Jul 12,boxscore,SFG,,ARI,L,0,2,,52-43,2,0.5,Miley,Vogelsong,Reed,2:44,D,41261,-
+96,96,Sunday Jul 13,boxscore,SFG,,ARI,W,8,4,,53-43,2,0.5,Bumgarner,Nuno,,3:01,D,41288,+
+97,97,Friday Jul 18,boxscore,SFG,@,MIA,W,9,1,,54-43,1,up 0.5,Bumgarner,Eovaldi,,3:00,N,23017,++
+98,98,Saturday Jul 19,boxscore,SFG,@,MIA,W,5,3,,55-43,1,up 1.5,Hudson,Alvarez,Casilla,3:01,N,24882,+++
+99,99,Sunday Jul 20,boxscore,SFG,@,MIA,L,2,3,,55-44,1,up 0.5,Hand,Lincecum,Cishek,2:41,D,25221,-
+100,100,Monday Jul 21,boxscore,SFG,@,PHI,W,7,4,,56-44,1,up 0.5,Kontos,Lee,Casilla,3:28,N,27334,+
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+101,101,Tuesday Jul 22,boxscore,SFG,@,PHI,W,9,6,14,57-44,1,up 1.5,Kontos,Manship,Lincecum,5:46,N,30109,++
+102,102,Wednesday Jul 23,boxscore,SFG,@,PHI,W,3,1,,58-44,1,up 2.5,Bumgarner,Papelbon,Casilla,3:02,N,28648,+++
+103,103,Thursday Jul 24,boxscore,SFG,@,PHI,L,1,2,,58-45,1,up 2.0,Hamels,Hudson,Papelbon,2:46,D,33258,-
+104,104,Friday Jul 25,boxscore,SFG,,LAD,L,1,8,,58-46,1,up 1.0,Greinke,Lincecum,,3:29,N,41753,--
+105,105,Saturday Jul 26,boxscore,SFG,,LAD,L,0,5,,58-47,1,Tied,Kershaw,Vogelsong,,2:53,N,42060,---
+106,106,Sunday Jul 27,boxscore,SFG,,LAD,L,3,4,,58-48,2,1.0,Ryu,Peavy,Jansen,3:13,N,41459,----
+107,107,Monday Jul 28,boxscore,SFG,,PIT,L,0,5,,58-49,2,1.5,Worley,Bumgarner,,2:34,N,41794,-----
+108,108,Tuesday Jul 29,boxscore,SFG,,PIT,L,1,3,,58-50,2,2.5,Liriano,Hudson,Melancon,2:45,N,42242,------
+109,109,Wednesday Jul 30,boxscore,SFG,,PIT,W,7,5,,59-50,2,2.5,Machi,Wilson,Casilla,3:24,D,42272,+
+110,110,Friday Aug 1,boxscore,SFG,@,NYM,W,5,1,,60-50,2,2.0,Vogelsong,Niese,,2:06,N,28905,++
+111,111,Saturday Aug 2,boxscore,SFG,@,NYM,L,2,4,,60-51,2,3.0,deGrom,Peavy,Mejia,2:24,N,33687,-
+112,112,Sunday Aug 3,boxscore,SFG,@,NYM,W,9,0,,61-51,2,2.0,Bumgarner,Colon,,2:40,D,32408,+
+113,113,Monday Aug 4,boxscore,SFG,@,NYM,W,4,3,,62-51,2,1.0,Romo,Mejia,Casilla,3:40,D,27187,++
+114,114,Tuesday Aug 5,boxscore,SFG,@,MIL,L,3,4,,62-52,2,2.0,Nelson,Machi,Rodriguez,2:54,N,40465,-
+115,115,Wednesday Aug 6,boxscore,SFG,@,MIL,W,7,4,,63-52,2,2.0,Vogelsong,Gallardo,,3:53,N,33394,+
+116,116,Thursday Aug 7,boxscore,SFG,@,MIL,L,1,3,,63-53,2,3.0,Peralta,Peavy,Rodriguez,3:14,D,38229,-
+117,117,Friday Aug 8,boxscore,SFG,@,KCR,L,2,4,,63-54,2,3.0,Frasor,Bumgarner,Holland,2:59,N,28307,--
+118,118,Saturday Aug 9,boxscore,SFG,@,KCR,L,0,5,,63-55,2,3.0,Shields,Hudson,,2:30,N,35114,---
+119,119,Sunday Aug 10,boxscore,SFG,@,KCR,L,4,7,,63-56,2,4.0,Duffy,Lincecum,Holland,3:21,D,27359,----
+120,120,Tuesday Aug 12,boxscore,SFG,,CHW,L,2,3,10,63-57,2,5.5,Putnam,Casilla,,3:12,N,42317,-----
+121,121,Wednesday Aug 13,boxscore,SFG,,CHW,W,7,1,,64-57,2,4.5,Peavy,Quintana,,2:44,D,41725,+
+122,122,Friday Aug 15,boxscore,SFG,,PHI,L,3,5,10,64-58,2,5.0,Giles,Casilla,Papelbon,3:36,N,41425,-
+123,123,Saturday Aug 16,boxscore,SFG,,PHI,W,6,5,,65-58,2,4.0,Affeldt,Bastardo,Romo,3:34,D,41907,+
+124,124,Sunday Aug 17,boxscore,SFG,,PHI,W,5,2,,66-58,2,3.0,Lincecum,Buchanan,Casilla,2:57,D,41851,++
+125,125,Tuesday Aug 19,boxscore,SFG,@,CHC,L &amp;X,1,2,,66-59,2,4.0,Wada,Vogelsong,Rondon,2:50,N,31064,-
+126,126,Wednesday Aug 20,boxscore,SFG,@,CHC,W,8,3,,67-59,2,3.0,Peavy,Jackson,,3:11,N,30633,+
+127,127,Thursday Aug 21,boxscore,SFG,@,CHC,W,5,3,,68-59,2,3.0,Bumgarner,Wood,Casilla,3:16,N,30541,++
+128,128,Friday Aug 22,boxscore,SFG,@,WSN,W,10,3,,69-59,2,3.0,Hudson,Fister,,3:24,N,33718,+++
+129,129,Saturday Aug 23,boxscore,SFG,@,WSN,L,2,6,,69-60,2,4.0,Zimmermann,Lincecum,,2:38,N,34137,-
+130,130,Sunday Aug 24,boxscore,SFG,@,WSN,L,6,14,,69-61,2,4.0,Stammen,Affeldt,,3:46,D,35476,--
+131,131,Monday Aug 25,boxscore,SFG,,COL,L,2,3,,69-62,2,4.5,Matzek,Peavy,Hawkins,2:47,N,41052,---
+132,132,Tuesday Aug 26,boxscore,SFG,,COL,W,3,0,,70-62,2,4.5,Bumgarner,De La Rosa,,2:33,N,41050,+
+133,133,Wednesday Aug 27,boxscore,SFG,,COL,W-wo,4,2,,71-62,2,4.5,Casilla,Nicasio,,2:54,N,41071,++
+134,134,Thursday Aug 28,boxscore,SFG,,COL,W,4,1,,72-62,2,4.0,Petit,Lyles,Casilla,2:50,D,41017,+++
+135,135,Friday Aug 29,boxscore,SFG,,MIL,W,13,2,,73-62,2,3.0,Vogelsong,Peralta,,3:17,N,41348,++++
+136,136,Saturday Aug 30,boxscore,SFG,,MIL,W,3,1,,74-62,2,2.0,Peavy,Fiers,Casilla,2:57,N,41397,+++++
+137,137,Sunday Aug 31,boxscore,SFG,,MIL,W,15,5,,75-62,2,2.0,Bumgarner,Lohse,,3:14,D,41935,++++++
+138,138,Monday Sep 1,boxscore,SFG,@,COL,L-wo,9,10,,75-63,2,2.0,Hawkins,Romo,,3:44,D,33711,-
+139,139,Tuesday Sep 2,boxscore,SFG,@,COL,W,12,7,,76-63,2,2.0,Kontos,Belisle,,3:37,N,25256,+
+140,140,Wednesday Sep 3,boxscore,SFG,@,COL,L,2,9,,76-64,2,2.0,Bergman,Vogelsong,,2:53,D,23122,-
+141,141,Friday Sep 5,boxscore,SFG,@,DET,W,8,2,,77-64,2,2.0,Peavy,Porcello,,2:48,N,31940,+
+142,142,Saturday Sep 6,boxscore,SFG,@,DET,W,5,4,,78-64,2,2.0,Bumgarner,Price,Casilla,3:08,D,35722,++
+143,143,Sunday Sep 7,boxscore,SFG,@,DET,L,1,6,,78-65,2,3.0,Lobstein,Hudson,,3:43,N,27523,-
+144,144,Tuesday Sep 9,boxscore,SFG,,ARI,W,5,1,,79-65,2,2.5,Petit,Miley,,2:29,N,41683,+
+145,145,Wednesday Sep 10,boxscore,SFG,,ARI,W,5,0,,80-65,2,2.5,Machi,Perez,,3:07,N,41293,++
+146,146,Thursday Sep 11,boxscore,SFG,,ARI,W,6,2,,81-65,2,2.0,Peavy,Delgado,,3:28,D,41039,+++
+147,147,Friday Sep 12,boxscore,SFG,,LAD,W,9,0,,82-65,2,1.0,Bumgarner,Ryu,,3:01,N,41147,++++
+148,148,Saturday Sep 13,boxscore,SFG,,LAD,L,0,17,,82-66,2,2.0,Greinke,Hudson,,3:15,N,41533,-
+149,149,Sunday Sep 14,boxscore,SFG,,LAD,L,2,4,,82-67,2,3.0,Kershaw,Petit,Jansen,2:53,D,41932,--
+150,150,Monday Sep 15,boxscore,SFG,@,ARI,L,2,6,,82-68,2,4.0,Miley,Vogelsong,,2:59,N,21731,---
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
+151,151,Tuesday Sep 16,boxscore,SFG,@,ARI,W,2,1,,83-68,2,3.0,Peavy,Collmenter,Casilla,2:34,N,26339,+
+152,152,Wednesday Sep 17,boxscore,SFG,@,ARI,W,4,2,,84-68,2,2.0,Romo,Reed,Casilla,3:35,D,19272,++
+153,153,Friday Sep 19,boxscore,SFG,@,SDP,L,0,5,,84-69,2,3.5,Despaigne,Hudson,,2:49,N,34472,-
+154,154,Saturday Sep 20,boxscore,SFG,@,SDP,L,2,3,,84-70,2,3.5,Cashner,Petit,Quackenbush,2:53,N,40660,--
+155,155,Sunday Sep 21,boxscore,SFG,@,SDP,L,2,8,,84-71,2,4.5,Kennedy,Vogelsong,,3:24,D,32480,---
+156,156,Monday Sep 22,boxscore,SFG,@,LAD,W,5,2,13,85-71,2,3.5,Casilla,Correia,Strickland,4:16,N,53500,+
+157,157,Tuesday Sep 23,boxscore,SFG,@,LAD,L,2,4,,85-72,2,4.5,Greinke,Bumgarner,Jansen,2:49,N,49251,-
+158,158,Wednesday Sep 24,boxscore,SFG,@,LAD,L,1,9,,85-73,2,5.5,Kershaw,Hudson,,3:07,N,53387,--
+159,159,Thursday Sep 25,boxscore,SFG,,SDP,W,9,8,,86-73,2,5.0,Lincecum,Boyer,Casilla,3:32,N,41850,+
+160,160,Friday Sep 26,boxscore,SFG,,SDP,L,1,4,,86-74,2,6.0,Kennedy,Vogelsong,Benoit,2:55,N,41926,-
+161,161,Saturday Sep 27,boxscore,SFG,,SDP,W,3,1,,87-74,2,6.0,Strickland,Thayer,Casilla,2:35,D,41157,+
+162,162,Sunday Sep 28,boxscore,SFG,,SDP,W,9,3,,88-74,2,6.0,Lincecum,Erlin,,3:03,D,41077,++
+Rk,Gm#,Date,,Tm,,Opp,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,Streak
