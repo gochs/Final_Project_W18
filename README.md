@@ -1,4 +1,5 @@
-Final_Project_W18
+*Final_Project_W18*
+
 San Francisco Bike Share Analysis By: Shawn Kessler, Giles Ochs and Brian Schneider
 
 Public Repo with Notebooks and other sources: 
